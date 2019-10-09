@@ -33,15 +33,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate ,MOLHResetable {
         // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
-     func reset() {
-           
-         let appDelegate = UIApplication.shared.delegate as! AppDelegate
-               
-
-            let stry = UIStoryboard(name: "Main", bundle: nil)
-            appDelegate.window!.rootViewController = stry.instantiateViewController(withIdentifier: "rootnav")
-      
-                      }
+   func reset() {
+         let rootviewcontroller: UIWindow = ((UIApplication.shared.delegate?.window)!)!
+               let stry = UIStoryboard(name: "Main", bundle: nil)
+               rootviewcontroller.rootViewController = stry.instantiateViewController(withIdentifier: "rootnav")    }
        
 }
 
