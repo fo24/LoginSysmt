@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A90109C9FD73561B9EC07959 /* Pods_Login_Systems.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55144B5371895DD04CE8C18D /* Pods_Login_Systems.framework */; };
 		BB121FFE234CFD2F00C5FDC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB121FFD234CFD2F00C5FDC7 /* AppDelegate.swift */; };
-		BB122000234CFD2F00C5FDC7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB121FFF234CFD2F00C5FDC7 /* SceneDelegate.swift */; };
 		BB122002234CFD2F00C5FDC7 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB122001234CFD2F00C5FDC7 /* LoginVC.swift */; };
 		BB122005234CFD2F00C5FDC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB122003234CFD2F00C5FDC7 /* Main.storyboard */; };
 		BB122007234CFD3100C5FDC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB122006234CFD3100C5FDC7 /* Assets.xcassets */; };
@@ -24,7 +23,6 @@
 		9C62B6C456E5292F1246246D /* Pods-Login Systems.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Login Systems.release.xcconfig"; path = "Target Support Files/Pods-Login Systems/Pods-Login Systems.release.xcconfig"; sourceTree = "<group>"; };
 		BB121FFA234CFD2F00C5FDC7 /* Login Systems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Login Systems.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB121FFD234CFD2F00C5FDC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BB121FFF234CFD2F00C5FDC7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BB122001234CFD2F00C5FDC7 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		BB122004234CFD2F00C5FDC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BB122006234CFD3100C5FDC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,7 +78,6 @@
 			children = (
 				BB121FFD234CFD2F00C5FDC7 /* AppDelegate.swift */,
 				BB619C3A234D1B8A00C85D1D /* Localizable.strings */,
-				BB121FFF234CFD2F00C5FDC7 /* SceneDelegate.swift */,
 				BB122001234CFD2F00C5FDC7 /* LoginVC.swift */,
 				BB619C32234D0BD200C85D1D /* HomeVC.swift */,
 				BB122003234CFD2F00C5FDC7 /* Main.storyboard */,
@@ -220,7 +217,6 @@
 				BB122002234CFD2F00C5FDC7 /* LoginVC.swift in Sources */,
 				BB619C33234D0BD200C85D1D /* HomeVC.swift in Sources */,
 				BB121FFE234CFD2F00C5FDC7 /* AppDelegate.swift in Sources */,
-				BB122000234CFD2F00C5FDC7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
