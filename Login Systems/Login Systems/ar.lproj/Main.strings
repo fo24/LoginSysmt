@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Forgotten account?"; ObjectID = "8Oq-Kp-uIK"; */
+"8Oq-Kp-uIK.normalTitle" = "نسيت كلمة المرور؟";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9WS-sk-SOj"; */
+"9WS-sk-SOj.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Pjd-GX-mM7"; */
+"Pjd-GX-mM7.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "VrZ-WC-t4s"; */
+"VrZ-WC-t4s.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "bzB-1j-M2c"; */
+"bzB-1j-M2c.placeholder" = "اسم المستخدم";
+
+/* Class = "UINavigationItem"; title = "LoginSystems"; ObjectID = "cFt-dW-rXG"; */
+"cFt-dW-rXG.title" = "LoginSystems";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "dpg-Yx-Mcg"; */
+"dpg-Yx-Mcg.normalTitle" = "English";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "iBm-Vy-gfC"; */
+"iBm-Vy-gfC.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "nQv-ZK-i0E"; */
+"nQv-ZK-i0E.placeholder" = "الشركة";
